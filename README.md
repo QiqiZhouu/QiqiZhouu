@@ -11,3 +11,9 @@ Soy Qiqi, científico de datos e ingeniero informático.
 📊 Apasionado por el análisis de datos para la toma de decisiones.
 
 
+Proyectos Destacados
+📈 Trabajo de Fin de Máster: 
+🗳️ Aplicación de técnicas de dimensiones.
+Titatic 
+House Price
+los de 4hair
