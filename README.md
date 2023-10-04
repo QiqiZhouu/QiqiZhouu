@@ -10,7 +10,4 @@ Soy Qiqi, científico de datos e ingeniero informático.
 
 📊 Apasionado por el análisis de datos para la toma de decisiones.
 
-Proyectos Destacados
-📈 Trabajo de Fin de Máster: 
-🗳️ [Marketing Campaign]([enlace-a-tu-proyecto](https://Leztin.github.io/Marketing)): Aplicación de técnicas de dimensiones.
 
