@@ -12,8 +12,5 @@ Soy Qiqi, científico de datos e ingeniero informático.
 
 
 Proyectos Destacados
-📈 Trabajo de Fin de Máster: 
-🗳️ Aplicación de técnicas de dimensiones.
-Titatic 
-House Price
-los de 4hair
+- [Trabajo de Fin de Máster](https://github.com/QiqiZhouu/Medical-Image-Classification):
+- [Web Scraping: Páginas Amarillas](https://github.com/QiqiZhouu/Web-Scrapping-/): Extracción, clasificación y análisis de datos web públicos de [Páginas Amarillas](https://www.paginasamarillas.es/). Python.
