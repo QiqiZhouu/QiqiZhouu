@@ -1,16 +1,15 @@
-### Hi there 👋
+### About Me 👋
 
-<!--
-**QiqiZhouu/QiqiZhouu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hola a todos,
+Soy Qiqi, científico de datos e ingeniero informático.
 
-Here are some ideas to get you started:
+Sobre mí
+🎓 Graduado en Ingeniería Informática por la Universidad Alicante. 
+💼 Máster Oficial en Ciencia de Datos e Inteligencia de Negocios por la Universidad Complutense de Madrid. Nota Media de 9.5
+🤖 Visualizando datos y programando en R, Python y SAS.
+📊 Apasionado por el análisis de datos para la toma de decisiones.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Proyectos Destacados
+📈 Trabajo de Fin de Máster:
+🗳️ [Marketing Campaign]([enlace-a-tu-proyecto](https://Leztin.github.io/Marketing)): Aplicación de técnicas de dimensiones .
+
